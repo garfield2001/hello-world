@@ -1,2 +1,2 @@
-# hello-world
-This is my first Repository
+hello i am Bas
+i am currently a student
